@@ -1,0 +1,6 @@
+export const siteConfig = {
+ brand:{name:"Happy Holidays",tagline:"Journeys that become memories",heroEyebrow:"DISCOVER MORE. EXPERIENCE MORE.",heroTitle:"The world is",heroLine:"waiting for you.",heroDescription:"Thoughtfully planned holidays, meaningful experiences and seamless travel support — from Trichy to the world.",heroVideo:"https://videos.pexels.com/video-files/3129671/3129671-hd_1920_1080_25fps.mp4",metaDescription:"Happy Holidays, Trichy — domestic and international tour packages, flights, visa, passport and travel services."},
+ theme:{primary:"#153e34",primaryDark:"#102e27",accent:"#a1844f",background:"#fbfaf7",surface:"#f0f0e9",text:"#24372f",headingFont:"Playfair Display",bodyFont:"DM Sans"},
+ contact:{phoneDisplay:"+91 75300 50392",phoneE164:"917530050392",secondaryPhone:"+91 89259 35241",email:"info@happyholidays.travel",whatsappNumber:"917530050392",addressLines:["SF.NO.64/364/4, Main Road,","Thiruverambur, Trichy – 620019,","Tamil Nadu, India"],website:"https://www.happyholidays.travel/"},
+ flight:{defaultFrom:"TRZ",defaultTo:"SIN",provider:"google",currency:"INR"}
+};
